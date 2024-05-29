@@ -1,2 +1,2 @@
-# clokc
-clokc
+# clock
+clock
